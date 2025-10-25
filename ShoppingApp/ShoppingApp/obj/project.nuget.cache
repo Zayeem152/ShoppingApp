@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ObwuamGiFGCtTjuiVKRKA5VtIVCTYHijVm4Uvvb10JA92xe7K3+uHUgwzPqJ+u55Mv7m2QO+vtete2chZPdkmA==",
+  "success": true,
+  "projectFilePath": "/Users/zayeem/Projects/ShoppingApp/ShoppingApp/ShoppingApp/ShoppingApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/zayeem/.nuget/packages/microsoft.aspnetcore.openapi/7.0.20/microsoft.aspnetcore.openapi.7.0.20.nupkg.sha512",
+    "/Users/zayeem/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/zayeem/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/zayeem/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/zayeem/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/zayeem/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/zayeem/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

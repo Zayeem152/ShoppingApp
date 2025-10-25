@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'https' " />
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.20" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Controllers\User\" />
+    <None Remove="BusinessLogic\" />
+    <None Remove="BusinessRepo\" />
+    <None Remove="BusinessLogic\User\" />
+    <None Remove="BusinessRepo\User\" />
+    <None Remove="Models\" />
+    <None Remove="Models\Entity\" />
+    <None Remove="Models\Request\" />
+    <None Remove="Models\Response\" />
+    <None Remove="Models\Enum\" />
+    <None Remove="Models\DTO\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Controllers\User\" />
+    <Folder Include="BusinessLogic\" />
+    <Folder Include="BusinessRepo\" />
+    <Folder Include="BusinessLogic\User\" />
+    <Folder Include="BusinessRepo\User\" />
+    <Folder Include="Models\" />
+    <Folder Include="Models\Entity\" />
+    <Folder Include="Models\Request\" />
+    <Folder Include="Models\Response\" />
+    <Folder Include="Models\Enum\" />
+    <Folder Include="Models\DTO\" />
+  </ItemGroup>
+</Project>
