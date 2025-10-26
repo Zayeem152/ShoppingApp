@@ -1,0 +1,12 @@
+﻿using System;
+namespace ShoppingApp.Models.Entity
+{
+	public class Country
+	{
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Code { get; set; }
+        public ICollection<State> StateNavigation { get; set; }
+    }
+}
+

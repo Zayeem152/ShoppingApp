@@ -31,3 +31,8 @@
 /Users/zayeem/Projects/ShoppingApp/ShoppingApp/ShoppingApp/obj/Debug/net7.0/ShoppingApp.pdb
 /Users/zayeem/Projects/ShoppingApp/ShoppingApp/ShoppingApp/obj/Debug/net7.0/ShoppingApp.genruntimeconfig.cache
 /Users/zayeem/Projects/ShoppingApp/ShoppingApp/ShoppingApp/obj/Debug/net7.0/ref/ShoppingApp.dll
+/Users/zayeem/Projects/ShoppingApp/ShoppingApp/ShoppingApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/zayeem/Projects/ShoppingApp/ShoppingApp/ShoppingApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/zayeem/Projects/ShoppingApp/ShoppingApp/ShoppingApp/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/zayeem/Projects/ShoppingApp/ShoppingApp/ShoppingApp/bin/Debug/net7.0/Npgsql.dll
+/Users/zayeem/Projects/ShoppingApp/ShoppingApp/ShoppingApp/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll

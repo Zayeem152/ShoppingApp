@@ -1,4 +1,44 @@
 ﻿<Properties StartupConfiguration="{908F4647-E1B6-45CA-AA3A-B1D5AE567B63}|https">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ShoppingApp FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShoppingApp/Models/Entity/Country.cs">
+    <Files>
+      <File FileName="ShoppingApp/BusinessLogic/User/UserBl.cs" Line="1" Column="1" />
+      <File FileName="ShoppingApp/BusinessLogic/User/IUserBl.cs" Line="1" Column="1" />
+      <File FileName="ShoppingApp/BusinessRepo/User/UserBr.cs" Line="1" Column="1" />
+      <File FileName="ShoppingApp/BusinessRepo/User/IUserBr.cs" Line="1" Column="1" />
+      <File FileName="ShoppingApp/Properties/launchSettings.json" Line="31" Column="2" />
+      <File FileName="ShoppingApp/Controllers/User/UserController.cs" Line="9" Column="3" />
+      <File FileName="ShoppingApp/Controllers/WeatherForecastController.cs" Line="5" Column="16" />
+      <File FileName="ShoppingApp/Models/Entity/Users.cs" Line="12" Column="57" />
+      <File FileName="ShoppingApp/Models/Entity/City.cs" Line="11" Column="63" />
+      <File FileName="ShoppingApp/Models/Entity/State.cs" Line="15" Column="1" />
+      <File FileName="ShoppingApp/Models/Entity/Country.cs" Line="9" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShoppingApp" expanded="True">
+            <Node name="ShoppingApp">
+              <Node name="BusinessRepo" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="User" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True">
+                <Node name="Entity">
+                  <Node name="Country.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ShoppingApp PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
 </Properties>
