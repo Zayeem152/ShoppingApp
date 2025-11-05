@@ -28,6 +28,13 @@ namespace ShoppingApp.Controllers.User
 			var result = mUserBl.PostUser(request);
             return Ok(result);
         }
+
+        [HttpPost("postUser")]
+        public IActionResult GetAllUsers()
+        {
+            //var result = mUserBl.PostUser();
+            return Ok();
+        }
     }
 }
 
